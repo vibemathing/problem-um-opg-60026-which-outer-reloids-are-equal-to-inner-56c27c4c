@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-opg-60026-which-outer-reloids-are-equal-to-inner-56c27c4c`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1358990146`
+- Repository node ID: `R_kgDOUQCLQg`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-opg-60026-which-outer-reloids-are-equal-to-inner-56c27c4c`
+- ProblemContract SHA-256: `6464a918e1708241d2e9a6fbc9a39ea377a5573426d9ba8ef317329286b0fc60`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `4561718c68edbb4299cd1a49a6f7b3b517c7a3bdf527596d557f6a45bf18468c`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
